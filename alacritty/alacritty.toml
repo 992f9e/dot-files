@@ -1,0 +1,20 @@
+import = [
+    "~/.config/alacritty/themes/themes/gruvbox_material_medium_dark.toml"
+]
+
+
+[window]
+
+opacity = 0.7
+
+padding.x = 10
+padding.y = 10
+
+decorations = "None"
+decorations_theme_variant = "Dark"
+
+dynamic_title = true
+
+[cursor]
+
+style = { shape = "Beam", blinking = "On" }
